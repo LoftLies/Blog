@@ -1,3 +1,6 @@
+# Netlify deploy status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d812ae62-9357-441c-9898-ba88b8e1194b/deploy-status)](https://app.netlify.com/sites/pensive-curie-48bd0a/deploys)
+
 # Prismic Gatsby Example Blog
 
 > [Gatsby](https://www.gatsbyjs.org/) example blog project with content managed in [Prismic](https://prismic.io)
