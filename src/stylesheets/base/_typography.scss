@@ -1,38 +1,41 @@
-@import url("https://fonts.googleapis.com/css?family=Patrick+Hand");
+@import url('https://fonts.googleapis.com/css?family=Reenie+Beanie&display=swap');
+
 body {
-  font-family: "Patrick Hand", sans-serif;
+  font-family: "Reenie Beanie", sans-serif;
 }
 
 a {
-  color: #353535;
+  color: red;
   text-decoration: none;
   background-repeat: repeat-x;
   background-size: 2px 2px;
   background-position: 0 23px;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Patrick Hand", sans-serif;
+  font-family: "Reenie Beanie", sans-serif;
+
 }
 h1 {
   margin-bottom: 1rem;
-  font-size: 50px;
+  font-size: 60px;
   font-weight: 900;
   line-height: 60px;
 }
 h2 {
   margin-bottom: 1rem;
-  font-size: 28px;
+  font-size: 40px;
   font-weight: 900;
   line-height: 40px;
 }
 h3 {
   margin-bottom: 1rem;
-  font-size: 22px;
+  font-size: 30px;
   font-weight: 900;
 }
 
 p, pre, ul, ol {
   margin-bottom: 2rem;
+  font-size: 28px;
 }
 ul, ol {
   padding-left: 30px;

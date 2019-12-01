@@ -1,18 +1,21 @@
 .blog-posts {
   .post-summary {
     margin-bottom: 3rem;
+    color: red;
+    background-color: #ffd6dc;
+
 
     h2 {
       margin: 0;
-      color: #353535;
+      color: red;
       text-align: left;
     }
 
     .blog-post-meta {
       margin-bottom: 8px;
-      font-size: 16px;
-      font-family: $font-sans-serif;
-      color: #9A9A9A;
+      font-size: 24px;
+      font-family: "Reenie Beanie", sans-serif;
+      color: red;
     }
   }
 }

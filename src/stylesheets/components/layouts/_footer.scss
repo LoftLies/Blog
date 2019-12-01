@@ -1,18 +1,21 @@
 footer {
-  color: #9A9A9A;
+  color: red;
   font-family: $font-sans-serif;
+  font-family: "Reenie Beanie", sans-serif;
   font-size: 16px;
   font-style: italic;
   text-align: center;
 
   p {
-    border-top: 1px solid #DADADA;
+    border-top: 1px solid red;
     padding: 2rem 0;
     margin-bottom: 0;
   }
 
   a {
     font-weight: bold;
+    color: red;
+
   }
 
   .footer-logo {

@@ -8,9 +8,15 @@
   background: #FFF7C7; /* Gecko Browsers */
 }
 
+html{
+  background-color: lavenderblush;
+  height: 100%;
+}
+
 body {
+  background-color: lavenderblush;
   padding: 3rem 0 0 0;
-  color: #353535;
+  color: red;
   line-height: 1.5;
   font-family: $font-serif;
   font-size: 20px;
