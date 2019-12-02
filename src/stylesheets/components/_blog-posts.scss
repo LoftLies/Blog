@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+
 .blog-posts {
   .post-summary {
     margin-bottom: 3rem;
@@ -13,8 +15,8 @@
 
     .blog-post-meta {
       margin-bottom: 8px;
-      font-size: 24px;
-      font-family: "Reenie Beanie", sans-serif;
+      font-size: 14px;
+      font-family: 'Inconsolata', monospace;
       color: red;
     }
   }
